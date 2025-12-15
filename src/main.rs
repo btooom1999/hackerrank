@@ -1,5 +1,5 @@
 mod exercises;
 
 fn main() {
-    exercises::plus_minus::main();
+    exercises::staircase::main();
 }
