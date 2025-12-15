@@ -1,6 +1,5 @@
 mod exercises;
 
-
 fn main() {
-    exercises::main();
+    exercises::compare_the_triplets::main();
 }
