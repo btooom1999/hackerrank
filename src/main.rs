@@ -1,5 +1,5 @@
 mod exercises;
 
 fn main() {
-    exercises::compare_the_triplets::main();
+    exercises::a_very_big_sum::main();
 }
