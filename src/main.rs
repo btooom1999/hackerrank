@@ -1,5 +1,5 @@
 mod exercises;
 
 fn main() {
-    exercises::birthday_cake_candles::main();
+    exercises::time_conversion::main();
 }
